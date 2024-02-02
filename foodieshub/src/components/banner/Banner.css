@@ -1,0 +1,11 @@
+.carousel-inner img{
+    height: 35rem;
+}
+@media (max-width: 768px) {
+    .carousel-inner img{
+        height: 15rem;
+        padding: 1rem;
+        border-radius: 2rem;
+        margin-top: 3rem;
+    }
+}
